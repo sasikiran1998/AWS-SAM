@@ -10,13 +10,8 @@
 * Run with the help of Localhost using any supportive browsers like Chrome, Firefox, Microsoft Egde, or any secure browser.
 * Play the Game... !!
 ### Screenshots :
-![image](https://user-images.githubusercontent.com/69857268/125730169-6f0375e6-c320-451f-888d-52d5ad69a8bb.png)
 
+![image](https://user-images.githubusercontent.com/69857268/125915176-04445b6d-e3d4-4eca-b102-d1a9738a3aa1.png)
+![image](https://user-images.githubusercontent.com/69857268/125914907-3ae0e1d5-b64f-4928-a69c-2aa770db81d0.png)
+![image](https://user-images.githubusercontent.com/69857268/125915148-9ebf27c2-b6b3-4035-8940-43c6fe28ea21.png)
 
-![image](https://user-images.githubusercontent.com/69857268/125730215-cd5bad89-8e21-43b5-9819-1e7663c55c8c.png)
-
-
-![image](https://user-images.githubusercontent.com/69857268/125730238-e2451123-98a1-4075-bd37-744a1f859bd9.png)
-
-
-![image](https://user-images.githubusercontent.com/69857268/125730269-1af007cb-a0d2-499c-8a4f-f3769441f2d3.png)
